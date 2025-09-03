@@ -1,0 +1,56 @@
+CypherLink v1.5 - Quick Guide
+
+🚀 Getting Started
+ • Install → Run setup and accept EULA
+ • Upload License → About Tab → Upload License button
+ • Auto-Detection → App finds your GSM modems automatically
+
+ 
+🎯 Main Features
+📞 SIM Management
+ • Real-time phone number detection
+ • Signal strength indicators
+ • Multiple SIM monitoring
+📨 OTP Extraction
+ • Auto-detects 4-8 digit codes from SMS
+ • Smart pattern recognition (OTP, code, PIN)
+ • One-click copy to clipboard
+👻 Ghost Mode
+ • Auto-types copied OTP codes
+ • Focus window detection
+ • Manual/auto activation
+🎮 Interface
+ • Main Tab
+ • Port dropdown - Select active ports
+ • SIM rows - Shows signal, number, OTP, copy button
+ • Hardware refresh - Detect new devices
+ • About Tab
+ • License info - Tier, expiration, key
+ • Auto-updates - Checks on startup
+ • Support - Email & Telegram links
+⚙️ Settings
+ • Files saved with .exe - Portable installation
+ • Port sequence preserved - Consistent SIM positioning
+ • License tiers - Trial/Basic/Pro
+🔧 Troubleshooting
+No ports detected?
+-Check USB connections
+-Try "Refresh Hardware"
+-Close other SMS software
+
+No phone numbers and messages?
+-Check SIM card is support by GSM Modem(some SIM like Dito does not have GSM signal)
+
+App crashes?
+-Check crash.log in app folder
+-Send to support for help
+
+🆘 Support
+Email: cypherlink01@gmail.com
+Telegram: @cypherlink01
+💡 Pro Tips
+Let app auto-detect hardware first time
+DITO network has limited USB modem SMS support
+Compatible with most GSM modems worldwide. Updates check automatically on startup.
+
+📖 For additional help or feature requests, contact support through the channels listed in the About tab.
